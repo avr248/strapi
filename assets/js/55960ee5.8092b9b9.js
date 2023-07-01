@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkdocs=self.webpackChunkdocs||[]).push([[121],{8070:e=>{e.exports=JSON.parse('[{"label":"content-manager","permalink":"/tags/content-manager","count":2},{"label":"content-type-builder","permalink":"/tags/content-type-builder","count":1}]')}}]);
